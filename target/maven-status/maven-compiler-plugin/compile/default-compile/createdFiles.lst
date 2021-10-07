@@ -1,0 +1,6 @@
+com/brunosan/pontointeligente/api/entities/Empresa.class
+com/brunosan/pontointeligente/api/entities/Funcionario.class
+com/brunosan/pontointeligente/PontoInteligenteApplication.class
+com/brunosan/pontointeligente/api/enums/PerfilEnum.class
+com/brunosan/pontointeligente/api/entities/Lancamento.class
+com/brunosan/pontointeligente/api/enums/TipoEnum.class
